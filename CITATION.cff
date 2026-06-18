@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it using the metadata from this file."
+title: "Schloemer-Notation :: / Semantic Sphere / Account Governance — Semantic Reference Architecture"
+authors:
+  - family-names: "Schloemer"
+    given-names: "Joost H."
+version: "v0.2"
+date-released: "2026-06-17"
+license: "CC-BY-4.0"
+repository-code: "https://zenodo.org/records/20735933"
+url: "https://doi.org/10.5281/zenodo.20735933"
+doi: "10.5281/zenodo.20735933"
+abstract: "The Semantic Reference Architecture is the latest consolidation stage of the Schloemer::Notation development line. It is not the origin of the notation, but its current reference, consolidation, and governance architecture."
+keywords:
+  - Schloemer-Notation
+  - Schloemer::Notation
+  - Semantic Sphere
+  - Account Governance
+  - Semantic Reference Architecture
+  - SRA
+  - SOS_LM
+  - "::SOS::LM"
+  - SGP-7/X
+  - semantic governance
+  - AI governance
+  - portable initialization
+  - semantic starter
+  - technical validator
